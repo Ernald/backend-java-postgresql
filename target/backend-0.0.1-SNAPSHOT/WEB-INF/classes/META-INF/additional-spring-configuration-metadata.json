@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "sring.jpa.properties.hibernate.format_sql",
+      "type": "java.lang.String",
+      "description": "Description for sring.jpa.properties.hibernate.format_sql."
+  }
+] }
